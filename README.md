@@ -1,6 +1,6 @@
 # VGA Cartridge
 
-![Kicad Schematic](/vscon2019_badge_vga_schem.png)
+![Kicad Schematic](/scon2019_badge_vga_schem.png)
 ![LTSPICE](/vga_ltspice_128_350mV.png)
 ![LTSPICE](/vga_ltspice_255_700mV.png)
 
